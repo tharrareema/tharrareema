@@ -25,7 +25,7 @@ If you want a deeper look at what I’ve built and the range of my skill set, ch
 You can view all my projects here: [Repositories](https://github.com/tharrareema?tab=stars)  
 
 Check out my **portfolio**: [Portfolio](https://reemaondata.site/)  
-Connect with me on **LinkedIn**: [LinkedIn]([your-linkedin-link](https://www.linkedin.com/in/tharrareema/))  
+Connect with me on **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/tharrareema/)
 
 ---
 
