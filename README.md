@@ -1,20 +1,32 @@
-## Hi there, I'm Reema 👋
+# Hi, I'm Reema Tharra 👋  
+*Data enthusiast | Exploring the stories hidden in data*
 
-Data Analyst and Aspiring Data Scientist passionate about leveraging data to solve real-world problems. With over 5 years of experience and a Master's in Computer Science, I am actively seeking opportunities in both data analysis and data science roles.
+---
 
-On this profile, you'll find a collection of my projects that demonstrate my skills in:
+## My Journey
 
-* Building predictive models and deep learning solutions.
+My curiosity for data sparked in 2020 when I realized that models could *learn from experience* and predict future outcomes. Since then, I've immersed myself in data, constantly asking: **What is happening? Why is it happening? How can we use this knowledge?**  
 
-* Designing and optimizing ETL pipelines.
+Through hands-on projects, I’ve developed skills in:
 
-* Creating impactful data visualizations and dashboards.
+- **Data Analysis & Cleaning:** Transforming messy datasets into usable insights  
+- **Machine Learning & Deep Learning:** Building predictive models and neural networks that uncover hidden patterns  
+- **Data Visualization:** Creating intuitive visualizations to communicate complex insights  
+- **Pipeline Engineering & Deployment:** Designing scalable workflows and deploying models effectively  
 
-* Utilizing tools like Python, SQL, Tableau, TensorFlow, and AWS.
+Each project I take on reinforces these skills and pushes me to solve real-world problems with data.  
 
-### Let's Connect
+If you want a deeper look at what I’ve built and the range of my skill set, check out my repositories below — they reflect my work in machine learning, deep learning, and data-driven solutions.
 
-I'm always open to connecting and discussing opportunities.
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reema07/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharrareem@gmail.com)
+## Explore My Work
+
+You can view all my projects here: [Repositories](https://github.com/tharrareema?tab=stars)  
+
+Check out my **portfolio**: [Portfolio](https://reemaondata.site/)  
+Connect with me on **LinkedIn**: [LinkedIn]([your-linkedin-link](https://www.linkedin.com/in/tharrareema/))  
+
+---
+
+*Let’s turn curiosity into insights, one dataset at a time.*
